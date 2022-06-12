@@ -1,0 +1,178 @@
+1654254052888	geckodriver	INFO	Listening on 127.0.0.1:61880
+1654254055953	mozrunner::runner	INFO	Running command: "C:\\P1654254055983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\*** You are running in headless mode.
+1654254057075	Marionette	INFO	Marionette enabled
+WebDriver 1654254057217	Marionette	INFO	Marionette[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofiled8Q4mH\\search.json.mozlz4", (void 0)))
+1654254063337	Marionette	INFO	Listening on port 62189
+DevTools listening on ws://localhost:61884/devtools/browser/a89a296a-2de0-43fd-a0d5-a4eb9d3aed4a
+Read port: 62189
+1654254064491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%20121654254075331	mozrunner::runner	INFO	Running command: "C:\\Program Files1654254075330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefo*** You are running in headless mode.
+1654254078627	Marionette	INFO	Marionette enabled
+WebDriver 1654254079044	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62436
+ enabled
+WebDriver BiDi listening on ws://localhost:62439
+O	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62444
+mozprofileyOoMpH"
+*** You are running in headless mode.
+1654254078988	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62454
+1654254091803	geckodriver	INFO	Listening on 127.0.0.1:62525
+1654254094824	mozrunner::runner	INFO	Running command: "C:\\P1654254094931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\*** You are running in headless mode.
+1654254096121	Marionette	INFO	Marionette enabled
+WebDriver 1654254096212	Marionette	INFO	Marionette[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileorDqSc\\search.json.mozlz4", (void 0)))
+mp\\rust_mozprofilemBekZw\\search.json.mozlz4", (void 0)))
+1654254102390	geckodriver	INFO	Listening on 127.0.0.1:62737
+1654254105421	mozrunner::runner	INFO	Running command: "C:\\P1654254105551	mozrunner::runner	INFO	Running command: "C:\\P1654254105574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62768" "--r*** You are running in headless mode.
+1654254106720	Marionette	INFO	Marionette enabled
+WebDriver 1654254106912	Marionette	INFO	Marionette[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Coul1654254114194	Marionette	INFO	Listening on port 63047
+Read 1654254114858	Marionette	INFO	Listening on port 63068
+DevTools listening on ws://localhost:62752/devtools/browser/f4636f6a-024f-46e9-b84b-61970d77463a
+Read port: 63068
+1654254115477	RemoteAgent	WAJavaScript warning: http://82.208.158.166/js/jquery/jquery-1JavaScript warning: https://tinread.bjbn.ro/js/jquery/jquery-1.10.1.min.js?build=3.5.1%20build%2012699, line 2: Using //@ to indicatJavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+	Listening on 127.0.0.1:63295
+1654254122962	mozrunner::runner	INFO	Running command: "C:\\P1654254123283	mozrunner::runner	INFO	Running command: "C:\\P1654254123708	mozrunner::runner	INFO	Running command: "C:\\P1654254123928	mozrunner::runner	INFO	Running command: "C:\\P1654254124231	mozrunner::runner	INFO	Running command: "C:\\P1654254125038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headles[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: RenderCompositorSWGL failed mapp1654254127576	mozru[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No 16542541[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exi1654254133577	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63348
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilerd1mPT\\search.json.mozlz4", (void 0)))
+1654254139778	Marionette	INFO	Listening on port 63762
+DevTools listening on ws://localhost:63348/devtools/browser/ce0d95b8-c835-4b9b-a0ae-26b4ddc0490c
+Read port: 63762
+1654254140276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254154719	geckodriver	INFO	Listening on 127.0.0.1:63818
+1654254157779	mozrunner::runner	INFO	Running command: "C:\\P1654254157898	mozrunner::runner	INFO	Running command: "C:\\P1654254157951	mozrunner::runner	INFO	Running command: "C:\\P1654254158027	mozrunner::runner	INFO	Running command: "C:\\P1654254158027	mozrunner::runner	INFO	1654254159016	Marionette	INFO	Marionette enabled
+WebDriver 1654254159155	Marionette	INFO	Marionetteconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilebqd01R\\search.json.mozlz4", (void 0)))
+1654254171086	Marionette	INFO	Listening on port 64209
+Read port: 64209
+1654254171246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63810/devtools/browser/8f92e6c7-8707-40b3-999d-40a98e2e175e
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+d
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%201654254179561	mozrunner::runner	INFO	Running command: "C:\\P1654254180247	mozrunner::runner	INFO	Running command: "C:\\P1654254181399	mozrunner::runner	INFO	Running command: "C:\\P1654254182313	mozrunner::runner	INFO	Running command: "C:\\P1654254182452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64376" "--r1654254183328	mozrunner::runner	INFO	Ru1654254184852	Marionette	INFO	Marionette enabled
+WebDriver 1654254187331	Marionette	INFO	Marionette[GFX1-]: RenderCompositorSWGL failed mapping default framebuconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 4consol[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+st:64371/devtools/browser/DevTools listening on ws://localhost:64376/devtools/browser/37e86b60-97aa-43e0-b86b-5c7547834ff6
+ profile?" (new 1654254295874	Marionette	INFO	Listening on port 64666
+DevTools listening on ws://localhost:64385/devtools/browser/2fe5ef7f-db82-43c3-979a-1654254299270	Marionette	INFO	Listening on port 64712
+DevTools listening on ws://localhost:64401/devtools/browser/93432097-bdc0-4dc5-816d-cd71ba1aeb03
+1654254552661	geckodriver	INFO	Listening on 127.0.0.1:61290
+1654254555738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilenIzFj1"
+1654254556575	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61291
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilenIzFj1\\search.json.mozlz4", (void 0)))
+1654254559960	Marionette	INFO	Listening on port 61340
+Read port: 61340
+1654254560013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61293/devtools/browser/1195d34f-7040-4db1-bf95-2993327102b4
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+d
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254578604	geckodriver	INFO	Listening on 127.0.0.1:61410
+1654254581653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofile3B2i7a"
+1654254582121	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61411
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilerUBKWK\\search.json.mozlz4", (void 0)))
+1654254584930	Marionette	INFO	Listening on port 61460
+Read port: 61460
+DevTools listening on ws://localhost:61411/devtools/browser/24b55694-3c37-44da-88b8-f10a2af4260c
+1654254584989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254618102	Marionette	INFO	Stopped listening on port 61457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "-headless" "--remote-debugging-port" "61516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileHvssZg"
+*** You are running in headless mod1654254615309	Marionette	INFO	Stopped listening on port 61460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+le.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileHvssZg\\search.json.mozlz4", (void 0)))
+1654254593062	Marionette	INFO	Listening on port 61546
+DevTools listening on ws://localhost:61516/devtools/browser/0e3889bc-d6f7-4c28-807a-af9b07522b49
+Read port: 61546
+1654254593129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254603167	Marionette	INFO	Stopped listening on port 61546
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654254610259	geckodriver	INFO	Listening on 127.0.0.1:61609
+1654254613294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileOtlqUw"
+*** You are running in headless mode.
+1654254613997	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61610
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileOtlqUw\\search.json.mozlz4", (void 0)))
+1654254616203	Marionette	INFO	Listening on port 61639
+DevTools listening on ws://localhost:61610/devtools/browser/49c2bb2d-b880-4dd4-85b9-ef1e62cc3f67
+Read port: 61639
+1654254616321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254618589	Marionette	INFO	Stopped listening on port 61639
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654254635761	geckodriver	INFO	Listening on 127.0.0.1:61682
+1654254638835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofilene31hd"
+1654254639299	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61683
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileG2Ymjx\\search.json.mozlz4", (void 0)))
+1654254642047	Marionette	INFO	Listening on port 61731
+DevTools listening on ws://localhost:61683/devtools/browser/5e66ad51-d775-4417-8f28-9a98e40fe0be
+Read port: 61731
+1654254642159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+d
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254647382	geckodriver	INFO	Listening on 127.0.0.1:61789
+1654254650456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileKVMBu4"
+*** You are running in headless mode.
+1654254651214	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61790
+1654254714259	geckodriver	INFO	Listening on 127.0.0.1:61826
+1654254717318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileW1rim4"
+1654254717832	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61824
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileOfoXdL\\search.json.mozlz4", (void 0)))
+1654254720563	Marionette	INFO	Listening on port 61874
+DevTools listening on ws://localhost:61824/devtools/browser/388f83d5-f052-4df9-8057-10c8f6cf6fa7
+Read port: 61873
+1654254720639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+tead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012643, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://86.120.27.26:8080/js/jquery/jquer1654254725828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofile1ki7UE"
+*** You are running in headless mode.
+1654254726495	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61931
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofile1ki7UE\\search.json.mozlz4", (void 0)))
+1654254728253	Marionette	INFO	Listening on port 61962
+Read port: 61962
+1654254728299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61931/devtools/browser/819c36ad-2aa0-4534-b6e8-f4335284ba7f
+JavaScript warning: http://82.208.158.166/js/jquery/jquery-1.10.1.min.js?build=3.4.1%20build%2012651, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654254735433	Marionette	INFO	Stopped listening on port 61962
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654254740930	geckodriver	INFO	Listening on 127.0.0.1:62014
+1654254743962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KyleYG\\AppData\\Local\\Temp\\rust_mozprofileWk4tJ6"
+*** You are running in headless mode.
