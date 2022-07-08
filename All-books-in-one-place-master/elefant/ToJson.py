@@ -1,5 +1,7 @@
 import json
 import copy
+
+
 from tosql import databaseelefant
 
 
@@ -29,7 +31,8 @@ def to_json(data: list, link: str) -> bool:
             json.dump(data, file)
         databaseelefant(link, dict)
         return True
-    except:
-        print("error")
+    except Exception as e: # work on python 3.x
+        print('Failed to upload to ftp: '+ str(e))
+
         return False
 

@@ -13,21 +13,21 @@ def getdataaleph(cataloglink: str, idcatalog: int):
     id = 1
     while True:
         driver.get(cataloglink)
-        driver.find_element_by_xpath("//input[@name='ccl_term']").send_keys("SYS=" + str(i))
-        driver.find_element_by_xpath("//input[@type='image']").click()
+        driver.find_element(By.XPATH, "//input[@name='ccl_term']").send_keys("SYS=" + str(i))
+        driver.find_element(By.XPATH, "//input[@type='image']").click()
         try:
-            driver.find_element_by_xpath("/html/body/table[1]/tbody/tr[4]/td[1]/img")  # eroare
+            driver.find_element(By.XPATH, "/html/body/table[1]/tbody/tr[4]/td[1]/img")  # eroare
 
             sleep(random() * 10)
         except:
             list = []
             sleep(2)
-            driver.find_element_by_xpath("//td[@width ='30%']/a").click()  # carte
+            driver.find_element(By.XPATH, "//td[@width ='30%']/a").click()  # carte
             sleep(2)
-            driver.find_element_by_xpath("/html/body/table[3]/tbody/tr/td[5]/a").click()  # etichete
+            driver.find_element(By.XPATH, "/html/body/table[3]/tbody/tr/td[5]/a").click()  # etichete
             sleep(2)
-            data = driver.find_element_by_xpath("//html//body//table[5]")  # elemnte Etichete MARC
-            for line in data.find_elements_by_xpath('//tbody//tr//td'):
+            data = driver.find_element(By.XPATH, "//html//body//table[5]")  # elemnte Etichete MARC
+            for line in data.find_element(By.XPATH, '//tbody//tr//td'):
                 list.append(line.text)
             k = 0
             for k in range(len(list)):
